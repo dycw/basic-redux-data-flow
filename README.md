@@ -1,6 +1,6 @@
-# Basic Redux Data Flow
+# Redux Essesntials Tutorial
 
-https://redux.js.org/tutorials/essentials/part-3-data-flow
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts
 
 ## Installation
 
